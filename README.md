@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá! Sejam bem-vindo ao meu perfil!👋
 
-<!--
-**diegobotassini/diegobotassini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Sou o aluno **Diego** da Escola Estadual "Engº Isac Pereira Garcez" de Dracena/SP.
+- Estou aprendendo programação nas aulas de Tecnologia com o Professor Jocimar.
+- Estamos utilizando nas aulas as plataformas: [Scratch](https://scratch.mit.edu/) e [JavaScript](https://editor.p5js.org/).
 
-Here are some ideas to get you started:
+#Podem entrar em contato comigo: 📧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+00001145540004sp@al.educacao.sp.gov.br
+
+![](https://media1.tenor.com/m/vxc5sL_VwkUAAAAd/jaguar-ftype-jaguar-cars.gif)
+
+
